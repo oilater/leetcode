@@ -17,7 +17,7 @@ function longestPalindrome(s: string): number {
         if (obj[key] % 2 === 0) {
             sum += obj[key];
         } else {
-            sum += (obj[key] - 1);
+            sum += obj[key] - 1;
             hasOdd = true;
         }
     }
