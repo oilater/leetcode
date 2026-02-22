@@ -66,4 +66,12 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/oilater/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Array
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/oilater/leetcode/tree/master/0704-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/oilater/leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
