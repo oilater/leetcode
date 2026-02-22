@@ -5,11 +5,13 @@
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/oilater/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/oilater/leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/oilater/leetcode/tree/master/0409-longest-palindrome) |
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/oilater/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/oilater/leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/oilater/leetcode/tree/master/0409-longest-palindrome) |
 ## Greedy
@@ -52,4 +54,8 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/oilater/leetcode/tree/master/0110-balanced-binary-tree) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/oilater/leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
