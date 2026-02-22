@@ -6,6 +6,10 @@ function search(nums: number[], target: number): number {
     while (left <= right) {
         let mid = Math.floor((right - left) / 2) + left;
 
+        if (target === nums[mid]) {
+            return mid;
+        }
+
         if (target > nums[mid]) {
             left = mid + 1;
             
@@ -13,10 +17,6 @@ function search(nums: number[], target: number): number {
         
         if (target < nums[mid]) {
             right = mid - 1;
-        }
-
-        if (target === nums[mid]) {
-            return mid;
         }
     }
     return -1;
