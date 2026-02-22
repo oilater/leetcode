@@ -1,5 +1,5 @@
 /**
-BFS with queue
+DFS
 
 시작점을 color로 덮어쓴 후,
 시작점의 색깔과 같은 색깔만 color로 덮어쓰기
