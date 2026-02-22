@@ -1,10 +1,5 @@
 <!---LeetCode Topics Start-->
 # LeetCode Topics
-
-✅ Easy (24/24)<br/>
-🤔 Medium (1/43)<br/>
-🥵 Hard (0/9)
-
 ## Hash Table
 |  |
 | ------- |
@@ -91,4 +86,16 @@
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/oilater/leetcode/tree/master/0876-middle-of-the-linked-list) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/oilater/leetcode/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/oilater/leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/oilater/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
