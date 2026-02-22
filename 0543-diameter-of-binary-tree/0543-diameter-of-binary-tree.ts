@@ -12,9 +12,6 @@
  * }
 
  루트 노드 기준으로 왼쪽 + 오른쪽 더하기
-
-
-
  */
 
 function diameterOfBinaryTree(root: TreeNode | null): number {
