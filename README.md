@@ -3,6 +3,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/oilater/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/oilater/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/oilater/leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/oilater/leetcode/tree/master/0409-longest-palindrome) |
@@ -19,6 +20,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/oilater/leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/oilater/leetcode/tree/master/0383-ransom-note) |
 ## Linked List
 |  |
@@ -63,6 +65,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/oilater/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/oilater/leetcode/tree/master/0242-valid-anagram) |
 ## Breadth-First Search
 |  |
@@ -73,6 +76,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/oilater/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/oilater/leetcode/tree/master/0169-majority-element) |
 | [0704-binary-search](https://github.com/oilater/leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/oilater/leetcode/tree/master/0733-flood-fill) |
 ## Binary Search
@@ -100,4 +104,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/oilater/leetcode/tree/master/0070-climbing-stairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/oilater/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
