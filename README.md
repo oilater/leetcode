@@ -28,4 +28,16 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/oilater/leetcode/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/oilater/leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/oilater/leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/oilater/leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
