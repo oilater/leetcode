@@ -20,4 +20,12 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/oilater/leetcode/tree/master/0383-ransom-note) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/oilater/leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/oilater/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
