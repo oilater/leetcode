@@ -1,5 +1,10 @@
 <!---LeetCode Topics Start-->
 # LeetCode Topics
+
+✅ Easy (24/24)<br/>
+🤔 Medium (1/43)<br/>
+🥵 Hard (0/9)
+
 ## Hash Table
 |  |
 | ------- |
