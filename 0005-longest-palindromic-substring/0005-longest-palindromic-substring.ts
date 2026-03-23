@@ -1,18 +1,21 @@
 function longestPalindrome(s: string): string {
     if (s.length < 2) return s;
-    let res = '';
+    let maxLength = 0;
+    let start = 0;
 
     for (let i = 0; i < s.length; i++) {
         expand(i, i);
         expand(i, i+1);
     }
-    return res;
+    return s.substring(start, start + maxLength + 1);
 
     function expand(left: number, right: number) {
         while (left >= 0 && right < s.length && s[left] === s[right]) {
-            const currentStr = s.substring(left, right + 1);
-            if (currentStr.length > res.length) {
-                res = currentStr;
+            const currentLength = right - left;
+
+            if (currentLength > maxLength) {
+                maxLength = currentLength;
+                start = left;
             }
             left--;
             right++;
