@@ -1,10 +1,5 @@
 <!---LeetCode Topics Start-->
 # LeetCode Topics
-
-✅ Easy (24/24)<br/>
-🤔 Medium (1/43)<br/>
-🥵 Hard (0/9)
-
 ## Hash Table
 |  |
 | ------- |
@@ -15,6 +10,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/oilater/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0242-valid-anagram](https://github.com/oilater/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/oilater/leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/oilater/leetcode/tree/master/0409-longest-palindrome) |
@@ -95,6 +91,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/oilater/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0876-middle-of-the-linked-list](https://github.com/oilater/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -103,6 +100,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/oilater/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/oilater/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/oilater/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Memoization
