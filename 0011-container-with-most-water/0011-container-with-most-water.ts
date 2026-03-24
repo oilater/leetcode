@@ -13,7 +13,7 @@
 function maxArea(height: number[]): number {
     let left = 0, right = height.length -1;
     let res = 0;
-    while (left < right) {
+    while (left <= right) {
         const squareWidth = right - left;
         const squareHeight = Math.min(height[right], height[left]);
         res = Math.max(res, squareWidth * squareHeight);
