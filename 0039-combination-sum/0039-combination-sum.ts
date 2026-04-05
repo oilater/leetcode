@@ -16,10 +16,9 @@ function combinationSum(candidates: number[], target: number): number[][] {
     const res = [];
 
     function recursion(temp: number[], curIndex: number) {
-        const temps = [...temp];
-        const sum = temps.reduce((acc, cur) => acc + cur, 0);
+        const sum = temp.reduce((acc, cur) => acc + cur, 0);
         if (sum === target) {
-            res.push(temps);
+            res.push([...temp]);
             return;
         } else if (sum > target) {
             return;
@@ -28,10 +27,10 @@ function combinationSum(candidates: number[], target: number): number[][] {
         // 다음 숫자 뽑기 (이전에 지난 숫자는 안뽑아도 됨)
         for (let nextIndex = curIndex; nextIndex < candidates.length; nextIndex++) {
             // temp에 숫자 넣어보고
-            temps.push(candidates[nextIndex]);
-            recursion(temps, nextIndex);
+            temp.push(candidates[nextIndex]);
+            recursion(temp, nextIndex);
             // 리턴 됐다면 숫자 뺴기
-            temps.pop();
+            temp.pop();
         }
     }
     recursion([], 0);
