@@ -15,24 +15,22 @@
 function combinationSum(candidates: number[], target: number): number[][] {
     const res = [];
 
-    function recursion(temp: number[], curIndex: number) {
-        const sum = temp.reduce((acc, cur) => acc + cur, 0);
-        if (sum === target) {
+    function recursion(temp: number[], currentIndex: number, currentSum: number) {
+        if (currentSum === target) {
             res.push([...temp]);
             return;
-        } else if (sum > target) {
+        }
+        else if (currentSum > target) {
             return;
         }
-        
+
         // 다음 숫자 뽑기 (이전에 지난 숫자는 안뽑아도 됨)
-        for (let nextIndex = curIndex; nextIndex < candidates.length; nextIndex++) {
-            // temp에 숫자 넣어보고
+        for (let nextIndex = currentIndex; nextIndex < candidates.length; nextIndex++) {
             temp.push(candidates[nextIndex]);
-            recursion(temp, nextIndex);
-            // 리턴 됐다면 숫자 뺴기
+            recursion(temp, nextIndex, currentSum + candidates[nextIndex]);
             temp.pop();
         }
     }
-    recursion([], 0);
+    recursion([], 0, 0);
     return res;
 };
