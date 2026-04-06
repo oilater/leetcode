@@ -85,6 +85,7 @@
 | [0015-3sum](https://github.com/oilater/leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/oilater/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/oilater/leetcode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/oilater/leetcode/tree/master/0046-permutations) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/oilater/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/oilater/leetcode/tree/master/0169-majority-element) |
 | [0704-binary-search](https://github.com/oilater/leetcode/tree/master/0704-binary-search) |
@@ -128,4 +129,5 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/oilater/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/oilater/leetcode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/oilater/leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
