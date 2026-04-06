@@ -9,7 +9,7 @@ function permute(nums: number[]): number[][] {
     const result = [];
     const visited = Array(nums.length).fill(false);
 
-    function recursion(currentPath: number[], currentIndex: number) {
+    function recursion(currentPath: number[]) {
         if (currentPath.length === nums.length) {
             result.push([...currentPath]);
             return;
@@ -21,11 +21,11 @@ function permute(nums: number[]): number[][] {
             }
             currentPath.push(nums[nextIndex]);
             visited[nextIndex] = true;
-            recursion(currentPath, nextIndex);
+            recursion(currentPath);
             currentPath.pop();
             visited[nextIndex] = false;
         }
     }   
-    recursion([], 0);
+    recursion([]);
     return result;
 };
