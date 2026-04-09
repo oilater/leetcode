@@ -96,6 +96,7 @@
 | [0053-maximum-subarray](https://github.com/oilater/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/oilater/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/oilater/leetcode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/oilater/leetcode/tree/master/0057-insert-interval) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/oilater/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/oilater/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/oilater/leetcode/tree/master/0217-contains-duplicate) |
