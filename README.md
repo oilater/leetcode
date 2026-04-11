@@ -122,12 +122,14 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/oilater/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/oilater/leetcode/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/oilater/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/oilater/leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/oilater/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/oilater/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/oilater/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Memoization
@@ -149,4 +151,8 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/oilater/leetcode/tree/master/0054-spiral-matrix) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/oilater/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
