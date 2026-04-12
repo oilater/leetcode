@@ -15,6 +15,7 @@
 | [0005-longest-palindromic-substring](https://github.com/oilater/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/oilater/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/oilater/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/oilater/leetcode/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/oilater/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/oilater/leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/oilater/leetcode/tree/master/0409-longest-palindrome) |
@@ -59,6 +60,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/oilater/leetcode/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/oilater/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/oilater/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/oilater/leetcode/tree/master/0226-invert-binary-tree) |
@@ -100,6 +102,7 @@
 | [0057-insert-interval](https://github.com/oilater/leetcode/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/oilater/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/oilater/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/oilater/leetcode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/oilater/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/oilater/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/oilater/leetcode/tree/master/0217-contains-duplicate) |
@@ -114,6 +117,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/oilater/leetcode/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/oilater/leetcode/tree/master/0079-word-search) |
 | [0733-flood-fill](https://github.com/oilater/leetcode/tree/master/0733-flood-fill) |
 ## Two Pointers
 |  |
@@ -152,6 +156,7 @@
 | [0039-combination-sum](https://github.com/oilater/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/oilater/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/oilater/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/oilater/leetcode/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
