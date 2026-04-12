@@ -6,34 +6,19 @@
  각 숫자 개수 세기
  */
 function sortColors(nums: number[]) {
-    let zero = 0, one = 0, two = 0;
-    
-    for (const num of nums) {
-        if (num === 0) {
-            zero++;
+    let low = 0, mid = 0, high = nums.length - 1;
+
+    while (mid <= high) {
+        if (nums[mid] === 0) {
+            [nums[low], nums[mid]] = [nums[mid], nums[low]];
+            low++;
+            mid++;
+        } else if (nums[mid] === 1) {
+            mid++;
+        } else {
+            [nums[high], nums[mid]] = [nums[mid], nums[high]];
+            high--;
         }
-        if (num === 1) {
-            one++;
-        }
-        if (num === 2) {
-            two++;
-        }
-    }
-    let i = 0;
-    while (zero) {
-        nums[i] = 0;
-        zero--;
-        i++;
-    }
-    while (one) {
-        nums[i] = 1;
-        one--;
-        i++;
-    }
-    while (two) {
-        nums[i] = 2;
-        two--;
-        i++;
     }
     return nums;
 };
