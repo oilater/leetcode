@@ -3,9 +3,6 @@
 각 턴에서 할 수 있는 행동
 - 뽑거나
 - 안 뽑거나
-
-현재 인덱스 뽑거나 넘기거나
-
 */
 function subsets(nums: number[]): number[][] {
     if (!nums.length) return [[]];
