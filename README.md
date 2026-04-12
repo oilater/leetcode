@@ -99,6 +99,7 @@
 | [0056-merge-intervals](https://github.com/oilater/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/oilater/leetcode/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/oilater/leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/oilater/leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/oilater/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/oilater/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/oilater/leetcode/tree/master/0217-contains-duplicate) |
@@ -150,6 +151,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/oilater/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/oilater/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/oilater/leetcode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/oilater/leetcode/tree/master/0078-subsets) |
 ## Simulation
 |  |
 | ------- |
@@ -158,4 +160,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/oilater/leetcode/tree/master/0062-unique-paths) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/oilater/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
