@@ -53,6 +53,7 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/oilater/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/oilater/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/oilater/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/oilater/leetcode/tree/master/0226-invert-binary-tree) |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/oilater/leetcode/tree/master/0079-word-search) |
+| [0098-validate-binary-search-tree](https://github.com/oilater/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/oilater/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/oilater/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/oilater/leetcode/tree/master/0226-invert-binary-tree) |
@@ -69,6 +71,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/oilater/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/oilater/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/oilater/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/oilater/leetcode/tree/master/0226-invert-binary-tree) |
@@ -169,4 +172,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/oilater/leetcode/tree/master/0078-subsets) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/oilater/leetcode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
