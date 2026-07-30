@@ -16,8 +16,9 @@ function cloneGraph(node: _Node | null): _Node | null {
 
   const cloned = new Map<_Node, _Node>();
 
-  function copy(origin: _Node) {
-    if (cloned.has(origin)) return cloned.get(origin);
+  function copy(origin: _Node): _Node {
+    const existing = cloned.get(origin);
+    if (existing) return existing;
 
     const dup = new _Node(origin.val);
     cloned.set(origin, dup);
