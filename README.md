@@ -6,6 +6,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/oilater/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/oilater/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/oilater/leetcode/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/oilater/leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/oilater/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/oilater/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/oilater/leetcode/tree/master/0242-valid-anagram) |
@@ -18,6 +19,7 @@
 | [0008-string-to-integer-atoi](https://github.com/oilater/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/oilater/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/oilater/leetcode/tree/master/0079-word-search) |
+| [0139-word-break](https://github.com/oilater/leetcode/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/oilater/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/oilater/leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/oilater/leetcode/tree/master/0409-longest-palindrome) |
@@ -117,6 +119,7 @@
 | [0079-word-search](https://github.com/oilater/leetcode/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/oilater/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/oilater/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/oilater/leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/oilater/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/oilater/leetcode/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/oilater/leetcode/tree/master/0704-binary-search) |
@@ -153,10 +156,12 @@
 | [0062-unique-paths](https://github.com/oilater/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/oilater/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/oilater/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/oilater/leetcode/tree/master/0139-word-break) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/oilater/leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/oilater/leetcode/tree/master/0139-word-break) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -191,4 +196,8 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/oilater/leetcode/tree/master/0133-clone-graph) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/oilater/leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
