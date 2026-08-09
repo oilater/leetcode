@@ -7,6 +7,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/oilater/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/oilater/leetcode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/oilater/leetcode/tree/master/0139-word-break) |
+| [0146-lru-cache](https://github.com/oilater/leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/oilater/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/oilater/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/oilater/leetcode/tree/master/0242-valid-anagram) |
@@ -36,6 +37,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/oilater/leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/oilater/leetcode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/oilater/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -49,6 +51,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/oilater/leetcode/tree/master/0146-lru-cache) |
 | [0232-implement-queue-using-stacks](https://github.com/oilater/leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
@@ -203,4 +206,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/oilater/leetcode/tree/master/0139-word-break) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/oilater/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
