@@ -47,6 +47,7 @@
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/oilater/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/oilater/leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Design
 |  |
@@ -124,6 +125,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/oilater/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/oilater/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/oilater/leetcode/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/oilater/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/oilater/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/oilater/leetcode/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/oilater/leetcode/tree/master/0322-coin-change) |
@@ -153,6 +155,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/oilater/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/oilater/leetcode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/oilater/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Dynamic Programming
 |  |
 | ------- |
