@@ -12,7 +12,6 @@ class MinStack {
 
     push(value: number): void {
         const previous = this.stack.at(-1);
-        
         const node = {
             num: value,
             min: previous ? Math.min(previous.min, value) : value,
