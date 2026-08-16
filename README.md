@@ -22,6 +22,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/oilater/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0067-add-binary](https://github.com/oilater/leetcode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/oilater/leetcode/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/oilater/leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/oilater/leetcode/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/oilater/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/oilater/leetcode/tree/master/0383-ransom-note) |
@@ -164,6 +165,7 @@
 | [0011-container-with-most-water](https://github.com/oilater/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/oilater/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/oilater/leetcode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/oilater/leetcode/tree/master/0125-valid-palindrome) |
 | [0876-middle-of-the-linked-list](https://github.com/oilater/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
