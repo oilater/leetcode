@@ -20,6 +20,7 @@
 | [0005-longest-palindromic-substring](https://github.com/oilater/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/oilater/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/oilater/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0067-add-binary](https://github.com/oilater/leetcode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/oilater/leetcode/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/oilater/leetcode/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/oilater/leetcode/tree/master/0242-valid-anagram) |
@@ -168,6 +169,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/oilater/leetcode/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/oilater/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/oilater/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/oilater/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Dynamic Programming
@@ -203,6 +205,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/oilater/leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/oilater/leetcode/tree/master/0067-add-binary) |
 ## Combinatorics
 |  |
 | ------- |
@@ -210,6 +213,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/oilater/leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/oilater/leetcode/tree/master/0078-subsets) |
 ## Binary Search Tree
 |  |
