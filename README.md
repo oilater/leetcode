@@ -152,6 +152,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/oilater/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0278-first-bad-version](https://github.com/oilater/leetcode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/oilater/leetcode/tree/master/0704-binary-search) |
 ## Matrix
 |  |
@@ -244,4 +245,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/oilater/leetcode/tree/master/0141-linked-list-cycle) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/oilater/leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
